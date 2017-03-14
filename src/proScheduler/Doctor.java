@@ -11,6 +11,8 @@ package proScheduler;
  */
 public class Doctor {
     
+   /* hayatahahahahahahaahha
+    
     /** The start time and end time of a Doctor's availability */
     private Schedule docSchedule;
     

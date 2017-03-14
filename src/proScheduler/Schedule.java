@@ -9,7 +9,7 @@ package proScheduler;
  *
  * @author Elena
  */
-
+import java.util.Calendar.*;
 
 public class Schedule {
     
